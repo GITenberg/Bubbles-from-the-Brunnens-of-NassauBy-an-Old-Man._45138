@@ -1,0 +1,32 @@
+_repo: Bubbles-from-the-Brunnens-of-NassauBy-an-Old-Man._45138
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45138-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Head, Francis Bond, Sir
+    aliases:
+    - Head, F. B. (Francis Bond), Sir
+    - Head, Francis Bond, Sir, bart.
+    birthdate: 1793
+    deathdate: 1875
+    gutenberg_agent_id: '40112'
+    url: http://www.gutenberg.org/2009/agents/40112
+description: ''
+gutenberg_issued: '2014-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Nassau (Duchy) -- Description and travel'
+- !lcsh 'Mineral waters -- Germany -- Nassau (Duchy)'
+title: 'Bubbles from the Brunnens of Nassau
+
+  By an Old Man.'
+url: http://www.gutenberg.org/ebooks/45138
